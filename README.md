@@ -1,4 +1,4 @@
-# The Public Domain Deck
+# Public Domain Playing Cards
 
 ![image_alt](https://github.com/AustinGabriel/The-Public-Domain-Deck-Public-Domain-and-CC0-Playing-Cards/blob/d1cc794d273c9ec7b771ec4779f46026a94f1c21/PREVIEW%201.png)
 
