@@ -29,7 +29,3 @@ Common uses:
 - Tabletop or digital card games
 - Prototyping and game jams
 - Design assets for card-based UIs
-
-## Disclaimer
-
-This project is provided as-is, with no warranty. While every source listed above has been verified as public domain / CC0 at the time of writing, license status on third-party sites can change — if you spot an issue with any credited source, please open an issue.
